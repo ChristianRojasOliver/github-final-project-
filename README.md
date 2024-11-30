@@ -1,7 +1,7 @@
-![alt text](https://content.presentermedia.com/files/clipart/00014000/14066/stick_figure_custom_calculator_800_wht.jpg)
-
-## A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
-## Input:
+![alt tex](https://content.presentermedia.com/files/clipart/00014000/14066/stick_figure_custom_calculator_800_wht.jpg)
+# github-final-project-
+### A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+* Input:
   ```bash
    p, principal amount
    t, time period in years
@@ -9,7 +9,7 @@
   ```
 
 
-## Output
+* Output
 ```bash
    simple interest = p*t*r
 ```
